@@ -1,14 +1,33 @@
 # awesome-edge-ai [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
-A curated list of edge devices for AI applications
+A curated list of edge devices for AI applications.
 
 ## Contents
-- [Section Title](#section-title)
 
-### Section Title
-Section description (optional).
+- [Development Boards](#development-platforms)
+- [Special Processors](#special-processors)
 
-- [Item](https://github.com/Pawamoy/cookiecutter-awesome) – Item short description.
+
+### Development Platforms
+<!-- Section description (optional). -->
+
+- [BeagleBone AI](https://beagleboard.org/ai)
+- [Intel Neural Compute Stick 1/2](https://software.intel.com/en-us/neural-compute-stick)
+- [Google Coral Dev Board](https://coral.withgoogle.com/products/dev-board/)
+- [Google Coral USB Accelerator](https://coral.withgoogle.com/products/accelerator/)
+- [OrangePi AI Stick](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/)
+- [Sipeed MAIX Go Suit](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module)
+- [UP Squared AI Vision X](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html)
+- [Xnor.ai Solar Powered Module](https://www.xnor.ai/solar-powered-ai/)
+
+### Special Processors
+
+- [Lightspeeur 2801S Neural Accelerator](https://www.gyrfalcontech.ai/solutions/2801s/)
+- [Intel Movidius Myriad VPU 2](https://www.movidius.com/myriad2)
+- [Intel Movidius Myriad X VPU](https://www.movidius.com/myriadx)
+- [Google Edge TPU](https://cloud.google.com/edge-tpu/)
+- [Sipeed MAIX](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
+
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.

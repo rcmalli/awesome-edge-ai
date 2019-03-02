@@ -8,8 +8,10 @@ project you agree to abide by its terms.
 
 Before sending a pull request, make sure that:
 
-- the contents are sorted alphabetically,
-- the tests pass:
+- Avoid similar products from same brand.
+- Avoid products do not exist yet.
+- The contents are sorted alphabetically,
+- The tests pass:
 
   ```bash
   gem install awesome_bot
