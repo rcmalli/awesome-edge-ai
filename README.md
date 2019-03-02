@@ -14,7 +14,7 @@ A curated list of edge devices for AI applications.
 - [BeagleBone AI](https://beagleboard.org/ai)
 - [Intel Neural Compute Stick 1/2](https://software.intel.com/en-us/neural-compute-stick)
 - [Google Coral Dev Board](https://coral.withgoogle.com/products/dev-board/)
-- [Google Coral USB Accelerator](https://coral.withgoogle.com/products/accelerator/) - ![tensorflow-badge]
+- [Google Coral USB Accelerator](https://coral.withgoogle.com/products/accelerator/) - ![Alt text](https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg)
 - [OrangePi AI Stick](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/)
 - [Sipeed MAIX Go Suit](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module)
 - [UP Squared AI Vision X](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html)
