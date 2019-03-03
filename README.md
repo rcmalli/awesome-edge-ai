@@ -11,16 +11,33 @@ A curated list of edge devices for AI applications.
 ### Development Platforms
 <!-- Section description (optional). -->
 
-| Name                             | System | Max. TOPS | Max. Watt | Operating Sys. | Frameworks | Price |
-| -------------------------------- | :------: | :---------: | :--------------: | :----------: | :-----: | :---:|
+| Name                             | System | Max. TOPS | Memory Size | Max. Watt | Accelerator Type| Operating System | Frameworks |
+| -------------------------------- | :------: | :---------: | :--------------: | :----------: | :-----: | :---:| :---:|
 | [BeagleBone AI]                  | H+M    |
 | [Intel Neural Compute Stick 2] | M
 | [Google Coral Dev Board]         | H+M
 | [Google Coral USB Accelerator]   | M
+| [Nvidia Jetson TX1]   | H+M
+| [Nvidia Jetson TX2]   | H+M
+| [Nvidia Jetson AGX Xavier]   | H+M
 | [OrangePi AI Stick]              | M
 | [Sipeed MAIX Go Suit]            | S
 | [UP Squared AI Vision X]         | H+M
 | [Xnor.ai Solar Powered Module]   | S
+
+**Tags**
+- System :
+  - H:
+  - M:
+  - H+M:
+- Max. TOPS :
+- Memory Size :
+- Max. Watt:
+- Accelerator Type
+  - Graphical Processing Unit (GPU)
+  - Special
+- Operating System:
+- Frameworks:
 
 
 ### Special Accelerators
@@ -66,3 +83,10 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [UP Squared AI Vision X]: https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html
 
 [Xnor.ai Solar Powered Module]: https://www.xnor.ai/solar-powered-ai/
+
+[Nvidia Jetson TX1]: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX1
+
+
+[Nvidia Jetson TX2]: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX2
+
+[Nvidia Jetson AGX Xavier]: https://www.nvidia.com/en-us/autonomous-machines/jetson-agx-xavier/
