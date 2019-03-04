@@ -11,25 +11,24 @@ A curated list of edge devices for AI applications.
 ### Development Platforms
 <!-- Section description (optional). -->
 
-| Name                             | System | Max. TOPS | Memory Size | Max. Watt | Accelerator Type| Operating System | Frameworks |
+| Name                             | Type | Max. TOPS | Memory Size | Max. Watt | Accelerator | Operating System | Frameworks |
 | -------------------------------- | :------: | :---------: | :--------------: | :----------: | :-----: | :---:| :---:|
-| [BeagleBone AI]                  | H+M    |
+| [BeagleBone AI]                  | C    |
 | [Intel Neural Compute Stick 2] | M
-| [Google Coral Dev Board]         | H+M
+| [Google Coral Dev Board]         | C
 | [Google Coral USB Accelerator]   | M
-| [Nvidia Jetson TX1]   | H+M
-| [Nvidia Jetson TX2]   | H+M
-| [Nvidia Jetson AGX Xavier]   | H+M
+| [Nvidia Jetson TX1]   | C
+| [Nvidia Jetson TX2]   | C
+| [Nvidia Jetson AGX Xavier]   | C
 | [OrangePi AI Stick]              | M
-| [Sipeed MAIX Go Suit]            | S
-| [UP Squared AI Vision X]         | H+M
-| [Xnor.ai Solar Powered Module]   | S
+| [Sipeed MAIX Go Suit]            | C
+| [UP Squared AI Vision X]         | C
+| [Xnor.ai Solar Powered Module]   | C
 
 **Tags**
-- System :
-  - H:
-  - M:
-  - H+M:
+- System : 
+  - (**C**)omplete : It can operate by its own. Mostly includes a host platform on the board.
+  - (**M**)odule : Needs a host platform.
 - Max. TOPS :
 - Memory Size :
 - Max. Watt:
@@ -65,7 +64,6 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 
 <!-- BOARDS  -->
-
 
 
 [BeagleBone AI]: https://beagleboard.org/ai
