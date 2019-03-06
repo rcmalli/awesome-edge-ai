@@ -1,7 +1,4 @@
-Add/remove <item> to/from the "<section>" section.
+Add new item or section.
 
-<item description>
-<why item fits/don't fit in that section>
-
-- [ ] Table of contents has been updated (if needed).
-- [ ] Contents have been sorted alphabetically.
+- [ ] Update table of contents
+- [ ] Tell which section/ item added or changed.
