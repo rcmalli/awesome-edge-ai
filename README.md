@@ -1,4 +1,4 @@
-# awesome-edge-ai [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
+# awesome-edge-ai [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/rcmalli/awesome-edge-ai.svg?branch=master)](https://travis-ci.org/rcmalli/awesome-edge-ai)
 
 A curated list of edge devices for AI applications.
 
