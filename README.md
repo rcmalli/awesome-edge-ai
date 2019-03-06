@@ -21,6 +21,7 @@ A curated list of edge devices for AI applications.
 - [Nvidia Jetson TX2](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX2)
 - [OrangePi AI Stick](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/)
 - [Sipeed MAIX Go Suit](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module)
+- [SparkFun Edge Development Board](https://www.sparkfun.com/products/15170)
 - [UP Squared AI Vision X](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html)
 - [Xnor.ai Solar Powered Module](https://www.xnor.ai/solar-powered-ai/)
 
