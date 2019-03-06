@@ -11,43 +11,27 @@ A curated list of edge devices for AI applications.
 ### Development Platforms
 <!-- Section description (optional). -->
 
-| Name                             | Type | Max. TOPS | Memory Size | Max. Watt | Accelerator | Operating System | Frameworks |
-| -------------------------------- | :------: | :---------: | :--------------: | :----------: | :-----: | :---:| :---:|
-| [BeagleBone AI]                  | C    |
-| [Intel Neural Compute Stick 2] | M
-| [Google Coral Dev Board]         | C
-| [Google Coral USB Accelerator]   | M
-| [Nvidia Jetson TX1]   | C
-| [Nvidia Jetson TX2]   | C
-| [Nvidia Jetson AGX Xavier]   | C
-| [OrangePi AI Stick]              | M
-| [Sipeed MAIX Go Suit]            | C
-| [UP Squared AI Vision X]         | C
-| [Xnor.ai Solar Powered Module]   | C
-
-**Tags**
-- System : 
-  - (**C**)omplete : It can operate by its own. Mostly includes a host platform on the board.
-  - (**M**)odule : Needs a host platform.
-- Max. TOPS :
-- Memory Size :
-- Max. Watt:
-- Accelerator Type
-  - Graphical Processing Unit (GPU)
-  - Special
-- Operating System:
-- Frameworks:
+- [BeagleBone AI](https://beagleboard.org/ai)
+- [Google Coral Dev Board](https://coral.withgoogle.com/products/dev-board/)
+- [Google Coral USB Accelerator](https://coral.withgoogle.com/products/accelerator/)
+- [Intel Neural Compute Stick 1](https://software.intel.com/en-us/)
+- [Intel Neural Compute Stick 2](https://software.intel.com/en-us/)
+- [Nvidia Jetson AGX Xavier](https://www.nvidia.com/en-us/autonomous-machines/jetson-agx-xavier/)
+- [Nvidia Jetson TX1](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX1)
+- [Nvidia Jetson TX2](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX2)
+- [OrangePi AI Stick](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/)
+- [Sipeed MAIX Go Suit](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module)
+- [UP Squared AI Vision X](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html)
+- [Xnor.ai Solar Powered Module](https://www.xnor.ai/solar-powered-ai/)
 
 
-### Special Accelerators
-
-- [Lightspeeur 280-X Neural Accelerators](https://www.gyrfalcontech.ai/solutions/)
+### Custom Accelerators
+- [Google Edge TPU](https://cloud.google.com/edge-tpu/)
 - [Intel Movidius Myriad VPU 2](https://www.movidius.com/myriad2)
 - [Intel Movidius Myriad X VPU](https://www.movidius.com/myriadx)
-- [Google Edge TPU](https://cloud.google.com/edge-tpu/)
+- [Lightspeeur 280-X Neural Accelerators](https://www.gyrfalcontech.ai/solutions/)
 - [Sipeed MAIX](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
 - [TI Vision AcclerationPac](http://www.ti.com/lit/wp/spry251/spry251.pdf)
-
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -63,28 +47,3 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 
-<!-- BOARDS  -->
-
-
-[BeagleBone AI]: https://beagleboard.org/ai
-
-[Intel Neural Compute Stick 2]: https://software.intel.com/en-us/
-
-[Google Coral Dev Board]: https://coral.withgoogle.com/products/dev-board/
-
-[Google Coral USB Accelerator]: https://coral.withgoogle.com/products/accelerator/
-
-[OrangePi AI Stick]: http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/
-
-[Sipeed MAIX Go Suit]: https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module
-
-[UP Squared AI Vision X]: https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html
-
-[Xnor.ai Solar Powered Module]: https://www.xnor.ai/solar-powered-ai/
-
-[Nvidia Jetson TX1]: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX1
-
-
-[Nvidia Jetson TX2]: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX2
-
-[Nvidia Jetson AGX Xavier]: https://www.nvidia.com/en-us/autonomous-machines/jetson-agx-xavier/
