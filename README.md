@@ -5,7 +5,7 @@ A curated list of edge devices for AI applications.
 ## Contents
 
 - [Development Platforms](#development-platforms)
-- [Special Accelerators](#special-accelerators)
+- [Custom Accelerators](#custom-accelerators)
 
 
 ### Development Platforms
