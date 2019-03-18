@@ -17,6 +17,7 @@ A curated list of edge devices for AI applications.
 - [Intel Neural Compute Stick 1](https://software.intel.com/en-us/movidius-ncs)
 - [Intel Neural Compute Stick 2](https://www.intel.ai/intel-neural-compute-stick-2-smarter-faster-plug-and-play-ai-at-the-edge/)
 - [Nvidia Jetson AGX Xavier](https://www.nvidia.com/en-us/autonomous-machines/jetson-agx-xavier/)
+- [Nvidia Jetson Nano](https://devblogs.nvidia.com/jetson-nano-ai-computing/)
 - [Nvidia Jetson TX1](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX1)
 - [Nvidia Jetson TX2](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX2)
 - [OrangePi AI Stick](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/)
