@@ -41,6 +41,7 @@ A curated list of edge devices for AI applications.
 - [Tensorflow Lite](https://www.tensorflow.org/lite)
 - [TinyDNN](https://github.com/tiny-dnn/tiny-dnn)
 - [uTensor](https://github.com/uTensor/uTensor)
+- [EdgeML](https://github.com/Microsoft/EdgeML)
 
 
 ## Contribute
