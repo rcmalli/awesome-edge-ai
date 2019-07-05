@@ -24,6 +24,7 @@ A curated list of edge devices for AI applications.
 - [Nvidia Jetson TX2](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX2) - Contains ARM CPU and 256 Cuda core Pascal GPU and has 8 GB/4 GB RAM.
 - [OrangePi AI Stick](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/) - ASIC based neural accelerator. It needs host device.
 - [Sipeed MAIX Go Suit](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module) - Single board computer based on RISC-V AI chip, KPU(Neural Network Processor) and APU(Audio Processor). It contains on-board DVP camera and LCD screen for visual output.
+- [SmartEdge Agile](https://www.avnet.com/wps/portal/integrated/solutions/capabilities/smartedge-agile/) - Modular Edge Device with IOT capabilities.
 - [SparkFun Edge Development Board](https://www.sparkfun.com/products/15170) - Apollo3 Blue microcontroller based board that contains microphones and 3-axis accelerometer and OV7670 camera interface. Runs on single coin battery. Supports Tensorflow-lite.
 - [UP Squared AI Vision X](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html) - Single board computer contains Intel ATOM CPU and Movidius Myriad as neural accelerator. It has 4 GB RAM.
 - [Xnor.ai Solar Powered Module](https://www.xnor.ai/solar-powered-ai/) - Very low power unit which can be running with only using solar panels. `More technical specifications needed.`
