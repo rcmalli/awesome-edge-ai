@@ -12,6 +12,7 @@ A curated list of edge devices for AI applications.
 ### Development Platforms
 <!-- Section description (optional). -->
 
+- [Baidu EdgeBoard](http://ai.baidu.com/tech/hardware/deepkit) - Xilinx FPGA based edge computing board.
 - [BeagleBone AI](https://beagleboard.org/ai) - Linux Board powered by ARM CPU,TI C66x digital-signal-processor (DSP) cores and embedded-vision-engine (EVE). It has 1GB RAM.
 - [Google Coral Dev Board](https://coral.withgoogle.com/products/dev-board/) - It is single board solution which contains ARM CPU and Edge TPU as accelerator with 1GB RAM.
 - [Google Coral USB Accelerator](https://coral.withgoogle.com/products/accelerator/) - Edge TPU  accelerator module connects with USB interface. It needs host device.
