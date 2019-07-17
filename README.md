@@ -36,7 +36,7 @@ A curated list of edge devices for AI applications.
 - [Intel Movidius Myriad X VPU](https://www.movidius.com/myriadx)
 - [Lightspeeur 280-X Neural Accelerators](https://www.gyrfalcontech.ai/solutions/)
 - [Sipeed MAIX](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
-- [TI Vision AcclerationPac](http://www.ti.com/lit/wp/spry251/spry251.pdf)
+- TI Vision AcclerationPac
 
 ### Software Libraries
 
