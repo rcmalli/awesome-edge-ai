@@ -34,6 +34,7 @@ A curated list of edge devices for AI applications.
 - [Google Edge TPU](https://cloud.google.com/edge-tpu/)
 - [Intel Movidius Myriad VPU 2](https://www.movidius.com/myriad2)
 - [Intel Movidius Myriad X VPU](https://www.movidius.com/myriadx)
+- [Kendryte K210](https://kendryte.com/)
 - [Lightspeeur 280-X Neural Accelerators](https://www.gyrfalcontech.ai/solutions/)
 - [Sipeed MAIX](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
 - TI Vision AcclerationPac
@@ -44,7 +45,7 @@ A curated list of edge devices for AI applications.
 - [TinyDNN](https://github.com/tiny-dnn/tiny-dnn)
 - [uTensor](https://github.com/uTensor/uTensor)
 - [EdgeML](https://github.com/Microsoft/EdgeML)
-
+- [nncase](https://github.com/kendryte/nncase)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
